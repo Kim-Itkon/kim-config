@@ -7,7 +7,7 @@
         <artifactId>kim-denpendecies</artifactId>
         <groupId>com.jinhan</groupId>
         <version>1.0.0-SNAPSHOT</version>
-        <relativePath>../../kim-denpendecies/pom.xml</relativePath>
+        <relativePath>../kim-denpendecies/pom.xml</relativePath>
     </parent>
 
     <artifactId>kim-config</artifactId>
