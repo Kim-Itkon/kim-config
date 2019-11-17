@@ -12,6 +12,7 @@
 
     <artifactId>kim-config</artifactId>
     <packaging>jar</packaging>
+    <name>kim-config</name>
 
     <dependencies>
         <!-- Spring Boot Begin -->
