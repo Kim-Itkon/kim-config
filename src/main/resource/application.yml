@@ -6,9 +6,9 @@ spring:
       label: master
       server:
         git:
-          uri: http://192.168.0.103:8080/Kim-Itoken/kim-config-profile.git
+          uri: https://github.com/Kim-Itkon/kim-config-profile.git
           search-paths: respo
-          username: kim
+          username: jinhan52@aliyun.com
           password: qw4610125
   boot:
     admin:
